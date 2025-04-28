@@ -1,0 +1,23 @@
+{
+    "name": "Gecko coin increible mirar criptos",
+    "short_name": "CoinGecko",
+    "description": "Consulta y guarda tus criptomonedas favoritas en GekoCoin.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/src/assets/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/src/assets/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
